@@ -1,0 +1,6 @@
+#ignore virtual env
+blu/
+
+#Byte compiled files
+*.pyc
+__pycache__/
